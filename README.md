@@ -1,7 +1,8 @@
-# ngrxTest
+#NgrxTest
 https://www.learmoreseekmore.com/2022/06/angular-14-statemanagement-crud-example-with-rxjs14.html
-
-commands:
+#Test
+https://catalincodes.com/posts/test-driven-development-in-an-angular-world-part-2
+#Commands:
 npm install -g json-server
 ng add @ngrx/store@latest
 ng add @ngrx/effects@latest
@@ -23,3 +24,5 @@ ng generate component books/add
 ng generate interface shared/store/appstate
 ng generate class shared/store/app.action
 ng generate class shared/store/app.reducer
+
+
