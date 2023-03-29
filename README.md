@@ -1,6 +1,7 @@
-#NgrxTest
-https://www.learmoreseekmore.com/2022/06/angular-14-statemanagement-crud-example-with-rxjs14.html
-#Test
+# NgrxTest
+## https://www.learmoreseekmore.com/2022/06/angular-14-statemanagement-crud-example-with-rxjs14.html
+## https://www.youtube.com/watch?v=z6gOPonp2t0
+# Test
 https://catalincodes.com/posts/test-driven-development-in-an-angular-world-part-2
 #Commands:
 npm install -g json-server
