@@ -1,10 +1,10 @@
 # NgrxTest
-## https://www.learmoreseekmore.com/2022/06/angular-14-statemanagement-crud-example-with-rxjs14.html
-## https://www.youtube.com/watch?v=z6gOPonp2t0
-
+https://www.learmoreseekmore.com/2022/06/angular-14-statemanagement-crud-example-with-rxjs14.html
+https://www.youtube.com/watch?v=z6gOPonp2t0
 # Test
 https://catalincodes.com/posts/test-driven-development-in-an-angular-world-part-2
-
+https://christianlydemann.com/the-complete-guide-to-ngrx-testing/
+https://itnext.io/test-driven-development-in-an-angular-world-92c0c42a54d0
 
 #Commands:
 ```
@@ -67,5 +67,5 @@ ng generate class shared/store/app.action
 ```
 ```
 ng generate class shared/store/app.reducer
-
+```
 
