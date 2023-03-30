@@ -6,6 +6,18 @@ https://catalincodes.com/posts/test-driven-development-in-an-angular-world-part-
 https://christianlydemann.com/the-complete-guide-to-ngrx-testing/
 https://itnext.io/test-driven-development-in-an-angular-world-92c0c42a54d0
 
+```
+https://www.youtube.com/watch?v=nR63Lj_FJ8I&list=PL_euSNU_eLbcqJ6_Z3FOZJ8mLZ2oMFItV&index=21
+```
+
+
+```
+https://www.youtube.com/watch?v=nR63Lj_FJ8I&list=PL_euSNU_eLbcqJ6_Z3FOZJ8mLZ2oMFItV&index=21
+```
+
+```
+```
+
 #Commands:
 ```
 npm install -g json-server
